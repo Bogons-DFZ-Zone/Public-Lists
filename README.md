@@ -1,5 +1,5 @@
 # Bad Actor --- Pathvector Bogon config for V6.3.0 and up
-## "Crowdsourced Internet asshole and criminal removal"
+## "Crowdsourced Internet asshole removal"
 This repository contains a list of known bad actors for which you can utilize in a Pathvector.io bogons list. 
 
 Add and/or delete entries you think are wrong, and submit a pull request for review.
